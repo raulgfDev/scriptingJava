@@ -1,1 +1,1 @@
-21 20 . Esto dos numeros son los resultados del programa JAVA, llamado desde el script
+26 120 . Esto dos numeros son los resultados del programa JAVA, llamado desde el script

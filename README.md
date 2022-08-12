@@ -1,5 +1,5 @@
 #  SCRIPTING BASH AND JAVA
-Conceder permisos de ejecución a todos los ficheros, como se detalla a continuación sobre el primero del los archivos:
+Conceder permisos de ejecución a todos los ficheros, como se detalla a continuación sobre el primero de los archivos:
 
 ```chmod +x primero.sh```
 
