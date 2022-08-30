@@ -12,6 +12,6 @@ Asimismo, se podrá ejecutar el fichero de arriba con la instrucción:
 
 ```java Tercero.java```
 
-Comenzamos la seguencia de ejecución de los diferentes ficheros con el comando:
+Comenzamos la secuencia de ejecución de los diferentes ficheros con el comando:
 
 ```sh primero.sh```

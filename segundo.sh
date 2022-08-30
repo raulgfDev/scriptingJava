@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "Hola mundo desde BASH segundo by rgfDev"
 echo intro valor de x
 read varX
 let varY=5
